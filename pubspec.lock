@@ -233,10 +233,10 @@ packages:
   flutter_modular:
     dependency: "direct main"
     description:
-      path: "C:\\Users\\jacob\\FlutterProjects\\modular"
-      relative: false
-    source: path
-    version: "0.4.2"
+      name: flutter_modular
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.5.2"
   flutter_test:
     dependency: "direct dev"
     description: flutter
